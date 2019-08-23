@@ -26,3 +26,7 @@ Y            >Z键<br>
 第一次自己做东西 代码太菜请见谅<br>
 <br>
 希望大家玩得愉快<br>
+
+
+如果出现缺少dll的错误<br>
+[点这里下载Visual C++ Redistributable](https://www.microsoft.com/zh-cn/download/details.aspx?id=48145)<br>
