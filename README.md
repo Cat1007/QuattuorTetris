@@ -6,14 +6,11 @@
 得分随下落速度倍率增长<br>
 善用 砸瓦鲁多！<br>
 <br>
-<br>
 方向键 >控制上下左右<br>
 空格键 >变形<br>
 Z 字键 >时间减速<br>
 回车键 >开始和死亡后重试<br>
-<br>
 //记得关闭输入法食用<br>
-<br>
 <br>
 支持Xbox ones手柄<br>
 <br>
@@ -22,11 +19,9 @@ A            >回车键<br>
 B            >空格键<br>
 Y            >Z键<br>
 <br>
-<br>
 第一次自己做东西 代码太菜请见谅<br>
 <br>
 希望大家玩得愉快<br>
-
 
 如果出现缺少dll的错误<br>
 [点这里下载Visual C++ Redistributable](https://www.microsoft.com/zh-cn/download/details.aspx?id=48145)<br>
